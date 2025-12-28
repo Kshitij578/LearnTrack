@@ -1,0 +1,1 @@
+Install JDK 17 and run Main.java
